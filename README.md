@@ -59,3 +59,5 @@ pytest
 
 Les données sont gardées en mémoire : elles disparaissent quand on arrête
 l'API. Une amélioration possible serait d'utiliser une base de données.
+
+![CI](https://github.com/chichbong207/mini-api/actions/workflows/ci.yml/badge.svg)
